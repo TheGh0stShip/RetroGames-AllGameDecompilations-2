@@ -3,7 +3,7 @@
 
 Games with a public decompilation, disassembly, or static recompilation, grouped by the platform that project actually targets.
 
-**718 projects** across 36 platforms · **5 reimplementations** at the bottom · last updated October 9, 2026
+**719 projects** across 36 platforms · **5 reimplementations** at the bottom · last updated October 17, 2026
 
 A game that shipped on several machines is listed under the version the repository is reversing. Inside each platform, names are alphabetical and a leading "The" is ignored.
 
@@ -24,7 +24,7 @@ A game that shipped on several machines is listed under the version the reposito
 - [Wii U](#wii-u) · 7
 - [Nintendo Switch](#nintendo-switch) · 4
 - [Game Boy](#game-boy) · 11
-- [Game Boy Color](#game-boy-color) · 15
+- [Game Boy Color](#game-boy-color) · 16
 - [Game Boy Advance](#game-boy-advance) · 51
 - [Nintendo DS](#nintendo-ds) · 31
 - [Nintendo 3DS](#nintendo-3ds) · 5
@@ -371,8 +371,9 @@ A game that shipped on several machines is listed under the version the reposito
 
 ## Game Boy Color
 
-15 projects
+16 projects
 
+- **BattleTanx** — [TheGh0stShip/BattleTanx-GBC](https://github.com/TheGh0stShip/BattleTanx-GBC) — *Byte-exact RGBDS disassembly of the USA release; semantic recovery is ongoing.*
 - **Deja Vu I & II: The Casebooks of Ace Harding** ✦ — [Hoshiruna/djv1-2disasm](https://github.com/Hoshiruna/djv1-2disasm)
 - **Dragon Warrior Monsters** — [NiyaDev/DWM](https://github.com/NiyaDev/DWM)
 - **Dragon Warrior Monsters (German)** — [Ebernacher90/DragonQuestMonstersGerman](https://github.com/Ebernacher90/DragonQuestMonstersGerman)
